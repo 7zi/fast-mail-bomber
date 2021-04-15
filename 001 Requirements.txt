@@ -1,0 +1,10 @@
+Software:
+1. XAAMP https://www.apachefriends.org/index.html
+
+Guides: 
+
+1. https://tubemint.com/php-not-recognized/
+
+Execution:
+cd [current directory]
+php index.php start-bombing email@example.com
